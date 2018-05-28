@@ -1,0 +1,2 @@
+# flutter-for-non-engineers
+エンジニア以外の職種の方がFlutterでの開発を通してなんとなくアプリ開発について知るためのリポジトリです
